@@ -1,0 +1,15 @@
+*{
+    /* border: 1px rgb(255, 255, 255) solid; */
+    margin: 0px;
+    padding: 0px;
+    color: whitesmoke;
+    background-color: #0e0e0e;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.navbar{
+    width: 60vw;
+}
+
